@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 My File added
 my File 123
 added new File
@@ -10,3 +11,5 @@ add3
 add 4
 add 5
 add 6
+=======
+>>>>>>> 0978cd8 (new file)
